@@ -22,7 +22,8 @@ The ETL pipeline is broken into three steps that correspond to different quality
     
     • transformation/feature engineering to make it ready for ML/AI (“Gold” tables)
     
-      Having separated tables allows having checkpoints, helping later modifications of the code
+
+Having separated tables allows having checkpoints, helping later modifications of the code
 
 ## 3. The model
  
