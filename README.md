@@ -14,10 +14,14 @@ Still, stakeholders are suspicious of this new technology and before transitioni
 ## 2. The data
 A csv file has been  sourced from https://www.kaggle.com/c/titanic/data and imported into Databricks.
 
-The ETL pipeline is broken into three steps that correspond to different quality levels in the pipeline:  
+The ETL pipeline is broken into three steps that correspond to different quality levels in the pipeline: 
+
     • data ingestion (“Bronze” tables). Set the correct schema.
+    
     • data cleaning, augmenting (“Silver” tables)
+    
     • transformation/feature engineering to make it ready for ML/AI (“Gold” tables)
+    
       Having separated tables allows having checkpoints, helping later modifications of the code
 
 ## 3. The model
