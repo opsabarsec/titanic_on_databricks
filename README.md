@@ -5,7 +5,7 @@ This ML pipeline is intended to run in a Spark environment. It was tested on the
 ![datapipeline](9892.jpg)
 
 ## 1. Background
-A large manufacturing company data flow is getting more important by the day. The company has tested some Python code on local machines to treat data but now there is the need to automatize and scale up the ML pipeline. 
+The data flow of a large manufacturing company is getting more important by the day. The company has tested some Python code on local machines to treat data but now there is the need to automatize and scale up the ML pipeline. 
 
 Databricks would provide a very efficient solution, with code running 50X faster than that written in Python since the volume of data treated every day is estimated to be several gigabytes. And it is going to further increase over time. 
 
