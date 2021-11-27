@@ -1,6 +1,6 @@
-﻿# Machine learning pipeline that runs on Databricks platform
+﻿# Simple machine learning pipeline that runs on the Databricks platform
 
-This ML pipeline is intended to run in aSpark environment. It was tested onteh Databricks communty open source platform.
+This ML pipeline is intended to run in a Spark environment. It was tested on the Databricks community open source platform.
 
 ![datapipeline](9892.jpg)
 
