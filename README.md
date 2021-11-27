@@ -16,6 +16,10 @@ The ETL pipeline is broken into three steps that correspond to different quality
     • transformation/feature engineering to make it ready for ML/AI (“Gold” tables)
       Having separated tables allows having checkpoints, helping later modifications of the code
 
+## 3. The model
+ 
+![jupyter](jupyter.png)A Spark machine learning pipeline has been coded and can be found in the [following Jupyter notebook](https://github.com/opsabarsec/titanic_on_databricks/blob/master/04-ML_pipeline.ipynb)
 
-## 3. Conclusions 
-Databricks provides and intuitive and powerful ETL platform. 
+
+## 4. Conclusions 
+Databricks provides and intuitive and powerful ETL platform. The ML pipeline shows that data can be conveniently transformed and sent to a classical ML model, in this case a Logistic Regression
