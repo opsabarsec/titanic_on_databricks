@@ -9,7 +9,7 @@ The data flow of a large manufacturing company is getting more important by the 
 
 Databricks would provide a very efficient solution, with code running 50X faster than that written in Python since the volume of data treated every day is estimated to be several gigabytes. And it is going to further increase over time. 
 
-Still, stakeholders are suspicious of this new technology and before transitioning to this platform the company would like to have a demo of this technology using a simple free data set: the Titanic survival data.
+Still, stakeholders are suspicious of this new technology and before transitioning to this platform the company would like to have a demo using a simple free data set: the Titanic survival data.
 
 ## 2. The data
 A csv file has been  sourced from https://www.kaggle.com/c/titanic/data and imported into Databricks.
